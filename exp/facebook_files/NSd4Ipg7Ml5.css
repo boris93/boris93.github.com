@@ -1,0 +1,78 @@
+/*1301904897,169775815*/
+
+.fbEmu .body .fbEmuLink{color:#333}
+.fbEmu .body .fbEmuLink:hover{text-decoration:none}
+.fbEmu .body a.signature{color:#3b5998;display:inline}
+.fbEmu .body a.signature:hover{text-decoration:underline}
+.fbEmu .hover:hover .title .fbEmuLink{text-decoration:underline}
+.fbEmu .forceRTL{direction:rtl;text-align:right;display:block}
+.fbEmu .forceLTR{direction:ltr;text-align:left;display:block}
+.fbEmu .adInfo a.identity{color:#808080;display:block;white-space:nowrap}
+.fbEmuHidePoll .undo{float:right;padding-left:2px;padding-bottom:2px;margin-bottom:3px;margin-left:5px}
+.fbEmuBlock .fbEmuHidePoll .otherdiv{margin-left:20px}
+.fbEmuLegacy .fbEmuHidePoll .otherdiv .other{width:141px}
+.fbEmuEgo .fbEmuHidePoll .otherdiv .other{width:206px}
+.emu_x{float:right;opacity:0}
+.fbEmu:hover .emu_x{opacity:1}
+.fbEmuBlock .title{font-weight:bold;line-height:13px;margin-bottom:4px;margin-right:20px}
+.fbEmuEgo .body .fbEmuLink{line-height:13px}
+div.fbEmuEgoUnit{margin-top:0;padding-top:8px;border-top:1px solid #e9e9e9;margin-bottom:8px}
+div.fbEmuEgoUnitFirst{margin-bottom:8px}
+div.fbEmuEgo .image .img{max-height:72px;max-width:100px;padding-top:3px}
+.fbEmuEgo .action{margin-top:5px}
+.fbEmuEgo{line-height:13px}
+.fbEmuEgo .fbEmuHide{margin-top:0 !important}
+.fbEmuEgo .title{font-weight:bold;margin-bottom:0 !important}
+.fbEmuEgo .image{width:100px;display:block;text-align:center}
+.fbEmuEgo .image_body_block{padding-top:3px}
+.fbEmuEgo .action{color:#777}
+.fbEmuEgo .action .fbEmuContext .fbEmuLink{color:#777}
+.fbEmuEgo .action div.UIImageBlock_Content{padding-top:1px}
+.fbEmuTracking{position:absolute;visibility:hidden}
+.ego_x{float:right;opacity:0}
+.ego_unit:hover .ego_x{opacity:1}
+.ego_image .img{vertical-align:bottom}
+.ego_image_tiny .img{height:32px;width:32px}
+.ego_image_small .img{height:50px;width:50px}
+.ego_image_medium .img{width:80px}
+.ego_title{display:block;font-weight:bold;margin-top:2px;max-width:162px;word-wrap:break-word}
+.ego_page .UIStandardFrame_Container{padding-left:0;width:980px}
+.ego_page .UIStandardFrame_Content{width:720px}
+.ego_page .UIStandardFrame_SidebarAds{width:auto}
+.ego_column{width:244px}
+.ego_section{margin-bottom:15px}
+.ego_section .async_saving a{display:none}
+.ego_section .indicator{display:none}
+.ego_section .async_saving .indicator{display:inline}
+.ego_unit{margin-bottom:6px}
+div.egoProfileTemplate div{margin-top:2px}
+.ego_standard .ego_action,.ego_standard .ego_social_context{display:block;margin-top:2px}
+.inCommonSectionList{margin-bottom:1px}
+.fbProfileNavHeaderEditButton{width:18px;height:18px;display:block}
+.fbProfileNavHeaderEditButton:hover .navHeaderPencil{opacity:.8}
+.fbProfileNavHeaderEditButton:active .navHeaderPencil{opacity:1}
+.fbxLeftNavHeaderActionLists{position:relative;top:-2px;margin-bottom:-7px}
+.contextual_dialog .generic_dialog_popup{padding-top:9px;position:absolute;width:360px}
+.contextual_dialog .arrow{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/z1/r/eae62KoJhLY.png);background-repeat:no-repeat;height:9px;margin-left:25px;margin-top:-2px;position:absolute;top:4px;width:13px}
+.contextual_dialog .contextual_dialog_content{background:#fff;border:1px solid #333;border-bottom:2px solid #283e6a;line-height:15px}
+.contextual_dialog .contextual_dialog_content div.dialog_loading{background:#fff;border:0}
+.contextual_dialog .dialog_title{color:#000;font-size:11px;padding-bottom:2px;padding:8px 10px 0}
+.contextual_dialog .dialog_body{padding:8px 10px}
+.contextual_dialog .dialog_buttons{background-color:#f2f2f2;border-top:1px solid #ccc;padding:8px 10px}
+.contextual_dialog .dialog_buttons_msg{float:right}
+.uiSimpleScrollingLoadingIndicator{display:none;margin:auto}
+.async_saving .uiSimpleScrollingLoadingIndicator{display:block}
+.uiMorePager{position:relative}
+.uiMorePager .uiMorePagerPrimary{display:block;padding:10px 15px}
+.uiMorePager .uiMorePagerPrimary:hover{background-color:#d8dfea}
+.uiMorePager .uiMorePagerSecondary{margin:10px 15px}
+.uiMorePager .arrow{display:inline;position:absolute}
+.uiMorePager .uiMorePagerLoader{display:none;padding:11px 15px 9px;text-align:center}
+.async_saving .uiMorePagerLoader{display:block}
+.async_saving .uiMorePagerPrimary,.async_saving .uiMorePagerSecondary{display:none}
+.uiMorePagerLight .uiMorePagerPrimary,.uiMorePagerLight .uiMorePagerLoader{padding:6px 5px 10px;border-top:1px solid #e5eaf1}
+.uiMorePagerLight .uiMorePagerPrimary:hover{background-color:#edeff4;border-top:1px solid #d8dfea}
+.uiMorePagerLight .uiMorePagerSecondary{margin:6px 5px}
+.uiMorePagerCenter{text-align:center}
+
+#bootloader_NTik2 { height: 42px; }

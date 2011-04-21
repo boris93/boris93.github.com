@@ -1,0 +1,28 @@
+
+#nava {
+	font-size:14pt;
+	text-decoration: none;
+	background-color:#336699;
+	color:white;
+}
+
+#navb {
+	font-size:14pt;
+	text-decoration: none;
+	background-color:white;
+	color:#336699;
+}
+
+
+#nava:hover{
+		background-color:purple;
+		opacity: 0.60;
+		filter:alpha(opacity=60);
+}
+
+#navb:hover{
+		background-color:grey;
+		color:white;
+		opacity: 0.80;
+		filter:alpha(opacity=80);
+}

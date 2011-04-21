@@ -15,14 +15,14 @@
 
 
 #nava:hover{
-		background-color:purple;
+		background-color:#008080;
 		opacity: 0.60;
 		filter:alpha(opacity=60);
 		letter-spacing: 1px;
 }
 
 #navb:hover{
-		background-color:#A75F86;
+		background-color:#00BBBB;
 		color:white;
 		opacity: 0.90;
 		filter:alpha(opacity=90);

@@ -1,12 +1,12 @@
 
-#nava {
+#navb {
 	font-size:14pt;
 	text-decoration: none;
 	background-color:#336699;
 	color:white;
 }
 
-#navb {
+#nava {
 	font-size:14pt;
 	text-decoration: none;
 	background-color:white;
@@ -14,14 +14,14 @@
 }
 
 
-#nava:hover{
-		background-color:#008080;
-		opacity: 0.60;
-		filter:alpha(opacity=60);
+#navb:hover{
+		background-color:#00BBBB;
+		opacity: 0.90;
+		filter:alpha(opacity=90);
 		letter-spacing: 1px;
 }
 
-#navb:hover{
+#nava:hover{
 		background-color:#00BBBB;
 		color:white;
 		opacity: 0.90;
@@ -30,7 +30,6 @@
 }
 
 #tright {
-	
 	font-size:18pt;
 	text-decoration: none;
 	color:#022993;
@@ -45,6 +44,6 @@
 	background-color:#A75F86;
 	font-size:19pt;
 	color:white;
-	opacity: 0.70;
-	filter:alpha(opacity=70);
+	opacity: 0.90;
+	filter:alpha(opacity=90);
 }
